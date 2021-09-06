@@ -1,5 +1,4 @@
 # "Hello Everyone"
-
 ## Paulo Prado na área!
 
 📚 Estudante do Ensino Médio integrado ao curso de Técnico em Informática
@@ -9,6 +8,8 @@
 🚀 Buscando sempre aprender e evoluir cada vez mais
 
 💻 Aprendendo sobre Desenvolvimento Web
+
+🖥️ Site: Em Breve!
 
 ## Redes Sociais
 
